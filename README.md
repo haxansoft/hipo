@@ -1,4 +1,4 @@
-# hipo
+# Hipo Documentation Server
 
 Serve styled documentation in the command line interface. With additional features to improve internal documentation for techical operations teams:
 
