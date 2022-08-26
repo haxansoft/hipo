@@ -9,3 +9,4 @@ Serve styled documentation in the command line interface. With additional featur
 - protect access with SSH keys
 
 See [hipo-cli](https://github.com/haxansoft/hipo-cli) for Hipo server's other half.
+
